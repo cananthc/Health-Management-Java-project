@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="View" project="Dr.Help_HMS" file="/Dr.Help_HMS/src/View" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="138" width="173" x="22" y="247"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="ErrorHandler" project="Dr.Help_HMS" file="/Dr.Help_HMS/src/ErrorHandler" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="138" width="188" x="331" y="41"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="Models" project="Dr.Help_HMS" file="/Dr.Help_HMS/src/Models" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="184" x="320" y="234"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="Dr.Help" project="Dr.Help_HMS" file="/Dr.Help_HMS/src/Dr/Help" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="183" x="14" y="31"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <dependency id="5">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="6">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="7">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="8">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="9">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="10">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="11">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="Dr.Help.Login_All" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/Login_All.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="253" width="181" x="6" y="-275"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Dr.Help.Management_Report" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/Management_Report.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="181" x="244" y="-268"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Dr.Help.NearByMedicalShop" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/NearByMedicalShop.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="194" width="164" x="600" y="-246"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Dr.Help.Hosp_Venture" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/Hosp_Venture.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="200" width="181" x="12" y="42"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Dr.Help.Hosp_Category" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/Hosp_Category.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="132" width="181" x="613" y="-38"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Dr.Help.Admin_Help" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/Admin_Help.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="93" width="146" x="340" y="-20"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Dr.Help.Welcome_Screen" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/Welcome_Screen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="126" x="198" y="114"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Dr.Help.newManager" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/newManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="188" x="479" y="106"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Dr.Help.UserType_Selection" project="Dr.Help_HMS" 
+    file="/Dr.Help_HMS/src/Dr/Help/UserType_Selection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="141" x="272" y="192"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="10">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="11">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="12">    
+    <bendpoint x="273" y="90"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="13">    
+    <bendpoint x="380" y="168"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="14">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="20">    
+    <bendpoint x="228" y="93"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="22">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="23">    
+    <bendpoint x="423" y="102"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="24">    
+    <bendpoint x="500" y="-61"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="25">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="26">    
+    <bendpoint x="366" y="179"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="27">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
